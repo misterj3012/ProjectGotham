@@ -1,0 +1,25 @@
+{
+    "Accounts": [
+        {
+            "ID": "6eccf602-4221-4386-b82f-3665f867b187",
+            "Name": "AccountName",
+            "EMail": "EMaik",
+            "Password": "PasswordHash",
+            "IP": "127.0.0.1"
+        }
+    ],
+    "Characters": [
+        {
+            "AccountID": "6eccf602-4221-4386-b82f-3665f867b187",
+            "FirstName": "Max",
+            "MiddleName": "Julius",
+            "LastName": "Mustermann"
+        },
+        {
+            "AccountID": "6eccf602-4221-4386-b82f-3665f867b187",
+            "FirstName": "Erika",
+            "MiddleName": "Michaela",
+            "LastName": "Musterfrau"
+        }
+    ]
+}
