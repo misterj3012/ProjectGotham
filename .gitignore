@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Private
+[Ss]erver/
+appsettings.Development.json
+/src/ProjectGotham/Migrations
